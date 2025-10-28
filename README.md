@@ -1,6 +1,6 @@
 # ☁️ Executando Tarefas Automatizadas com Lambda Function e S3 (LocalStack)
 
-A ideia para este desafio foi criar um **Bucket S3**, um banco de dados **DynamoDB** e uma função **Lambda Function** que se comunicassem entre si de forma **local**. Para realizar este desafio, utilizou-se o **LocalStack** em conjunto com o **Docker Desktop**, simulando um ambiente AWS.
+A ideia para este desafio foi criar um **Bucket S3**, uma tabela no **DynamoDB** e uma função **Lambda Function** que se comunicassem entre si de forma **local**. Para realizar este desafio, utilizou-se o **LocalStack** em conjunto com o **Docker Desktop**, simulando um ambiente AWS.
 
 ## 🧭 Conteúdo do Repositório
 
